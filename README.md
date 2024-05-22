@@ -1,6 +1,6 @@
 # CourseProjects
 
-This repository has most of the projects I've developed during my Bachelor's and Master's degrees.
+This repository has some projects I've developed mainly during my Master's in Data Science and Advanced Analytics @ Nova IMS.
 
 Feel Free to check them out!
 
